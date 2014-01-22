@@ -1,1 +1,7 @@
-["index.md"]
+[
+    "ng-conf-2014.md",
+    "topics-discussed.md",
+    "reduce-watch.md",
+    "example-of-avoiding-watch.md",
+    "explanation-of-fast-update.md"
+]
