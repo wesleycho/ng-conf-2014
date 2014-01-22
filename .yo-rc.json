@@ -1,0 +1,7 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "ng-conf",
+    "packageVersion": "0.0.0",
+    "useSass": true
+  }
+}
