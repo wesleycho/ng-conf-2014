@@ -3,5 +3,22 @@
     "topics-discussed.md",
     "reduce-watch.md",
     "example-of-avoiding-watch.md",
-    "explanation-of-fast-update.md"
+    "explanation-of-fast-update.md",
+    "more-facts-about-watch.md",
+    "example-of-shortcircuiting-watch.md",
+    "more-optimization-facts.md",
+    "promises.md",
+    "example-of-usefulness-of-promises.md",
+    "philosophy-of-design-of-angular.md",
+    "dependency-injection.md",
+    "example-of-dependency-injection.md",
+    "example-of-dependency-injection-2.md",
+    "example-of-dependency-injection-3.md",
+    "zones-for-debugging-performance-analysis.md",
+    "future-of-angular.md",
+    "near-future.md",
+    "relatively-distant-future.md",
+    "angular-20.md",
+    "angular-dart.md",
+    "videos.md"
 ]
