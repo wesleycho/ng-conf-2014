@@ -13,5 +13,5 @@
 			pump.pump();
 		};
 	}
-    var coffeemaker = new CoffeeMaker(grinder, heater, pump);
+    var coffeemaker = new CoffeeMaker();
     coffeemaker.brew();

@@ -12,6 +12,11 @@
 					data: function($http) {
 						return $http.get('/api/welcome/data')
 									.then(resolve, reject);
+					},
+					role: function(auth) {
+						return auth.getRole()
+								   .then(checkAuthorization)
+								   .then(null, redirect);
 					}
 				}
 			}
