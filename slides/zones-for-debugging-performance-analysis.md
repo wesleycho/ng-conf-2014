@@ -1,6 +1,6 @@
 ##  Zones
 
-*  Tracks stack trace
+*  Formulates stack trace
 *  Tracks duration of execution
 *  Arose out of work on Angular Dart
 *  Fully kill use of `$apply()`
