@@ -14,11 +14,15 @@
     "example-of-dependency-injection.md",
     "example-of-dependency-injection-2.md",
     "example-of-dependency-injection-3.md",
+    "example-of-dependency-injection-4.md",
+    "example-of-dependency-injection-5.md",
+    "example-of-dependency-injection-6.md",
     "zones-for-debugging-performance-analysis.md",
     "future-of-angular.md",
     "near-future.md",
     "relatively-distant-future.md",
     "angular-20.md",
     "angular-dart.md",
-    "videos.md"
+    "videos.md",
+    "repository.md"
 ]
