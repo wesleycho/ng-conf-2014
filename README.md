@@ -9,5 +9,5 @@ This repository hosts the slides for @wesleycho's recap on some of the more inte
 To run this presentation locally, you must
 
 *  Install [Node.js](http://nodejs.org)
-*  Run in your shell window `cd path/to/repo; (sudo) npm install -g grunt-cli; npm install; bower install`
+*  Run in your shell window `cd path/to/repo; (sudo) npm install -g grunt-cli bower; npm install; bower install`
 *  Run `grunt server`
